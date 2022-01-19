@@ -1,0 +1,22 @@
+body{
+	background: rgb(85, 144, 189);
+	background: linear-gradient(
+	  90deg,
+	  rgba(60, 26, 16, 1) 0%,
+	  rgba(168, 51, 255, 1) 54%,
+	  rgba(236, 51, 255, 1) 82%
+	);
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-family: "Oswald", sans-serif;
+}
+
+img{
+    width: 200px;
+}
+h1{
+    color: yellow;
+}
+h2{
+    color:chartreuse;
+}
